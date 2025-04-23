@@ -40,7 +40,7 @@ BEGIN
 END
 
 -- Шаг 2: Объявление переменных
-DECLARE @NumWorks INT = 4000;       -- Количество заказов (Works)
+DECLARE @NumWorks INT = 50000;       -- Количество заказов (Works)
 DECLARE @AvgItemsPerWork INT = 3;   -- Среднее количество элементов в заказе
 DECLARE @CounterWorks INT = 1;      -- Счетчик заказов
 
